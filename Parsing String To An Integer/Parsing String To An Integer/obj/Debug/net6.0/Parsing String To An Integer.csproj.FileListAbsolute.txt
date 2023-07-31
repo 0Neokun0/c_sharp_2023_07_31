@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\bin\Debug\net6.0\Parsing String To An Integer.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\bin\Debug\net6.0\Parsing String To An Integer.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\bin\Debug\net6.0\Parsing String To An Integer.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\bin\Debug\net6.0\Parsing String To An Integer.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\bin\Debug\net6.0\Parsing String To An Integer.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\refint\Parsing String To An Integer.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\Parsing String To An Integer.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\Parsing String To An Integer\Parsing String To An Integer\obj\Debug\net6.0\ref\Parsing String To An Integer.dll
